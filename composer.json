@@ -3,6 +3,9 @@
     "description": "Allow bitcoin payments in your PrestaShop store",
     "type": "prestashop-module",
     "license": "GPL-3.0-or-later",
+      "config": {
+        "prepend-autoloader": false
+    },
     "require": {
         "composer/installers": "^1.10"
     }
