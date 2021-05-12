@@ -1,0 +1,9 @@
+{
+    "name": "sc_plugin/presta-shop-bitcoin-payment-gateway-module",
+    "description": "Allow bitcoin payments in your PrestaShop store",
+    "type": "prestashop-module",
+    "license": "GPL-3.0-or-later",
+    "require": {
+        "composer/installers": "^1.10"
+    }
+}
