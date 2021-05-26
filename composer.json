@@ -1,7 +1,11 @@
 {
     "name": "sc_plugin/presta-shop-bitcoin-payment-gateway-module",
-    "description": "Allow bitcoin payments in your PrestaShop store",
+    "description": "SpectroCoin cryptocurrency payment gateway for Presta shop",
     "type": "prestashop-module",
+     "version": "1.0.0",
+    "keywords": [
+        "bitcoin", "btc", "xem", "dash", "spectrocoin", "merchant", "magento2", "gateway", "payment", "altcoin"
+      ],
     "license": "GPL-3.0-or-later",
       "config": {
         "prepend-autoloader": false
